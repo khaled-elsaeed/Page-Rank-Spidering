@@ -23,4 +23,6 @@ This Python project encompasses a set of programs designed to mimic the function
 - D3.js
 
 visualization --> 
+
+
   ![Web capture_26-11-2023_02411_](https://github.com/khaled-elsaeed/Page-Rank-Spidering/assets/109367278/dcc6daed-8075-4d13-96c6-3320334d42e7)
